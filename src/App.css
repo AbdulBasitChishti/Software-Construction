@@ -51,3 +51,31 @@ img {
   clear: both;
   padding-bottom: 50px;
 }
+.cardHeading{
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+  color: purple;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+.cards{
+  max-width: 275px;
+  float: left;
+  margin-left: 40px;
+  background-image: url("card.jpg");
+}
+.cardSection{
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 120px;
+}
+.content{
+  font-size: bold;
+  color: rgba(255, 255, 0, 0.8);
+  margin-top: 160px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.cardSub{
+  padding-left: 60px;
+}
